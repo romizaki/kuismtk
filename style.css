@@ -1,0 +1,95 @@
+body {
+    background-image: url('https://image.freepik.com/free-vector/pattern-about-education_1284-681.jpg');
+    background-repeat: repeat;
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+    font-family: cursive;
+    font-size: 35px;
+    font-stretch: condensed;
+    margin-bottom: 0px;
+}
+
+h2 {
+    text-align: center;
+    font-family: cursive;
+    font-size: 28px;
+    margin-top: 5px;
+}
+
+p {
+    text-align: center;
+    font-family: cursive;
+    font-size: 18px;
+}
+
+#navbar ul li{
+    list-style: none;
+    display: inline-block;
+    font-size: 24px;
+    width: 4.7em;
+    height: 1em;
+    font-family: cursive;
+}
+
+#navbar {
+    background-color: teal;
+}
+
+#navbar ul{
+    margin: 0;
+}
+
+a {
+    color: black;
+    text-decoration: black;
+
+}
+
+a:hover {
+    color: crimson;
+}
+.card {
+    border: 1px solid darkcyan;
+    background-color: darkcyan;
+    width: 450px;
+    height: 380px;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    margin-top: 30px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px 1px black;
+}
+
+.button {
+    background-color: turquoise;
+    border: white;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-family: cursive;
+    font-size: 16px;
+    margin-top: 30px;
+    margin-left: 120px;
+  }
+
+.kotakJawaban {
+    padding: 0px;
+    margin-left: 40px;
+    margin-right: 50px;
+    width: 600px;
+    height: 50px;
+    font-size: 15px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
